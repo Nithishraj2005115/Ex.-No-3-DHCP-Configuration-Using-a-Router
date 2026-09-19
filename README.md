@@ -1,4 +1,6 @@
 ## Ex. No: 3  DHCP Configuration Using a Router
+# NAME :NITHISHRAJ M
+# REG NO: 212223060187
 Date:
 ________________________________________
 # Objective
@@ -63,8 +65,16 @@ Router(dhcp-config)# exit<br>
 ________________________________________
 # Output (Screenshots)
 •	DHCP IP configuration shown in PC0 and PC1<br>
+<img width="1920" height="1080" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/df5c9a2c-9511-458d-8366-1a3642d4fcff" />
+
 •	Router configuration screen<br>
+<img width="1920" height="1080" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/c4294313-c310-40e5-9403-ad5a60d70e0b" />
+
 •	Successful ping test between the two PCs<br>
+<img width="1920" height="1080" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/337e0c7b-628b-4fdf-ae06-399061be9e86" />
+<img width="1920" height="1080" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/027cacb2-7126-43b5-8835-bccc9a23d47b" />
+
+
 ________________________________________
 # Result
 Successfully configured a DHCP server on the router. PCs were dynamically assigned IP addresses and were able to communicate over the network.
